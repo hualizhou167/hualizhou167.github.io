@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Huali Zhou",
+    "label": "Computer Science",
+    "image": "",
+    "email": "hualizhou@whu.edu.cn",
+    // "phone": "None", //"(912) 123-4567",
+    "url": "https://hualizhou167.github.io",
+    "summary": "CS Master at Wuhan University; intern at SMIIP Lab, Duke Kunshan University",
+    // "location": {
+    //   "address": "No. 8 Duke Avenue Kunshan City",
+    //   "postalCode": "215316",
+    //   "city": "Suzhou",
+    //   "countryCode": "China",
+    //   "region": "Jiangsu"
+    // },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "Huali Zhou",
+        "url": "https://scholar.google.com/citations?user=pFkp6NQAAAAJ&hl=zh-CN"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Duke Kunshan University",
+      "position": "Intern",
+      "url": "https://sites.duke.edu/dkusmiip",
+      "startDate": "2022-02-10",
+      "endDate": "2025-06-30",
+      "summary": "Conduct research on Singing Voice Synthesis at SMIIP Lab.",
+      "highlights": ["<a href='https://ieeexplore.ieee.org/abstract/document/10389659'>BiSinger</a>", "<a href='https://link.springer.com/chapter/10.1007/978-3-031-78347-0_16'>KunquDB</a>"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wuhan University",
+      "location": "Wuhan, China",
+      "url": "https://www.whu.edu.cn",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2022-09-01",
+      "endDate": "2025-06-30",
+      "courses": [
+        "Digital Signal Processing"
+      ]
+    },
+    {
+      "institution": "Wuhan University",
+      "location": "Wuhan, China",
+      "url": "https://www.whu.edu.cn",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-26",
+      "score": "3.9/4.0",
+      "courses": [
+        "Probability Theory",
+        "Linear Algebra"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "BiSinger: Bilingual singing voice synthesis",
+      "publisher": "IEEE",
+      "releaseDate": "2023-12-16",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10389659",
+      "summary": "This paper presents BiSinger, a bilingual pop SVS system for English and Chinese Mandarin."
+    },
+    {
+      "name": "KunquDB: An Attempt for Speaker Verification in the Chinese Opera Scenario",
+      "publisher": "Springer",
+      "releaseDate": "2024-12-02",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-78347-0_16",
+      "summary": "This paper introduces KunquDB, a relatively large-scale, well-annotated audio-visual dataset, pioneering the exploration of ASV in Kunqu opera."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "CET4:667, CET6:610",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hiking",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Mount Tai",
+        "Mount Lu"
+      ]
+    },
+    {
+      "name": "Watching Movies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Little Women"
+      ]
+    },
+    {
+      "name": "Jogging",
+      "icon": "fa-solid fa-tag"
+    }
+  ]
+}
